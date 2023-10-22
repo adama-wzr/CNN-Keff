@@ -7,9 +7,9 @@ The Python script utilizes one of the folders with the trained models to predict
 
 The packages required to run this code are PIL, numpy, Tensorflow/Keras, and os.
 
-If you find this work useful for your research, please cite the related work (a DOI and manuscript will be linked when available):
- - work
- - DOI
+If you find this work useful for your research, please cite the publication (pre-proof, will add the actual publication when available):
+
+ - Adam, A., Fang, H., & Li, X. (2023). Effective thermal conductivity estimation using a convolutional neural network and its application in topology optimization. In Energy and AI (p. 100310). Elsevier BV. https://doi.org/10.1016/j.egyai.2023.100310
 
 The training dataset can be found on MendeleyData, using the link below:
 
